@@ -89,7 +89,7 @@ html {
 .social{
     display: flex;
     justify-content: space-between;
-    width: 80%;
+    width: 60%;
 }
 #image_center{
     border-radius: 50%;
